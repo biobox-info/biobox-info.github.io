@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+gem "github-pages", group: :jekyll_plugins
+
+title: BioBox Informatics
+description:  Manual Page
+
+show_downloads: false
+google_analytics: UA-146928264-2

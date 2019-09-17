@@ -1,0 +1,170 @@
+[
+  {
+    "title": "BBMap",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/BBMap",
+          "filename": "BBMap_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v38.67",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/BBMap",
+          "filename": "BBMap_v38.67.sif",
+          "visible": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Bowtie2",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Bowtie2",
+          "filename": "Bowtie2_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v2.3.5.1",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Bowtie2",
+          "filename": "Bowtie2_v2.3.5.1.sif",
+          "visible": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "FastQC",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/FastQC",
+          "filename": "FastQC_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v0.11.7",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/FastQC",
+          "filename": "FastQC_v0.11.7.sif",
+          "visible": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Minimap2",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Minimap2",
+          "filename": "Minimap2_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v2.17",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Minimap2",
+          "filename": "Minimap2_v2.17.sif",
+          "visible": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "MultiQC",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/MultiQC",
+          "filename": "MultiQC_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v1.8.dev0",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/MultiQC",
+          "filename": "MultiQC_v1.8.dev0.sif",
+          "visible": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Samtools",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Samtools",
+          "filename": "Samtools_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v1.9",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Samtools",
+          "filename": "Samtools_v1.9.sif",
+          "visible": false
+        }
+      }
+    ]
+  },
+  {
+    "title": "Trinity",
+    "isExpanded": false,
+    "children": [
+      {
+        "title": "latest",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Trinity",
+          "filename": "Trinity_latest.sif",
+          "visible": false
+        }
+      },
+      {
+        "title": "v2.8.5",
+        "isLeaf": true,
+        "data": {
+          "shubUrl": "shub://biobox-info/Trinity",
+          "filename": "Trinity_v2.8.5.sif",
+          "visible": false
+        }
+      }
+    ]
+  }
+]
