@@ -119,6 +119,7 @@ mv trinityrnaseq sample_data
 #### 3. Use "Plotly" in R kernel
 
 ```R
+# source: https://plot.ly/r/using-r-in-jupyter-notebooks/#plotly-charts-in-jupyter-notebooks-using-r
 library(plotly)
 
 set.seed(100)
@@ -136,6 +137,7 @@ embed_notebook(p)
 #### 4. Use scatter plot of "Plotly" in R kernel
 
 ```R
+# source: https://plot.ly/r/using-r-in-jupyter-notebooks/#plotly-charts-in-jupyter-notebooks-using-r
 # Scatter Plot
 library(plotly)
 
