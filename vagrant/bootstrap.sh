@@ -43,7 +43,7 @@ jupyter nbextension install --py igv --system
 jupyter nbextension enable --py igv --system
 
 # plotly
-apt-get install -y libssl-dev libcurl4-openssl-dev pandoc
+apt-get install -y libssl-dev libcurl4-openssl-dev libxml2-dev pandoc
 
 # Install R
 apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
@@ -52,8 +52,7 @@ apt-get update
 apt-get install -y r-base
 
 echo '
-install.packages("dplyr", repos="http://cran.us.r-project.org")
-install.packages("ggplot2", repos="http://cran.us.r-project.org")
+install.packages("tidyverse", repos="http://cran.us.r-project.org")
 install.packages("IRkernel", repos="http://cran.us.r-project.org")
 install.packages("plotly", repos="http://cran.us.r-project.org")
 install.packages("devtools", repos="http://cran.us.r-project.org")
