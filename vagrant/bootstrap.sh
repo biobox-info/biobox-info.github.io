@@ -43,6 +43,9 @@ jupyter nbextension install --py igv --system
 jupyter nbextension enable --py igv --system
 
 # plotly
+pip3 install plotly==4.1.0
+
+# tidyverse dependencies
 apt-get install -y libssl-dev libcurl4-openssl-dev libxml2-dev pandoc
 
 # Install R
