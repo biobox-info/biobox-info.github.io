@@ -31,6 +31,10 @@ beakerx install
 npm install -g ijavascript
 /usr/local/bin/ijsinstall --install=global
 
+# Move node dependencies in /usr/local/lib/node_modules/
+mv /root/.npm/* /usr/local/lib/node_modules/
+rm -f /root/.npm
+
 #jupyter labextension install bqplot
 #jupyter labextension install beakerx-jupyterlab
 #jupyter labextension install @jupyter-widgets/jupyterlab-manager
