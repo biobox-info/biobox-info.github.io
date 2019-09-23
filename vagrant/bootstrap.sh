@@ -20,6 +20,7 @@ sudo -S -u vagrant ln -s /vagrant/scripts scripts
 # sudo -S -u vagrant wget -q https://github.com/trinityrnaseq/trinityrnaseq/releases/download/Trinity-v2.8.4/Trinity-v2.8.4.simg
 
 # Install beakerX
+apt-get purge -y openjdk-11-jre-headless
 apt-get install -y openjdk-8-jdk maven
 apt-get install -y nodejs npm
 pip3 install beakerx ipywidgets pandas py4j jupyterlab
