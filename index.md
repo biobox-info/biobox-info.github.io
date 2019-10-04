@@ -25,7 +25,7 @@ BioBox requires that the following software is installed run:
 
 Download the binary file appropriate for your operative system (Linux/OSX/Windows) from the repository:
 
-[https://github.com/hkmoon/biobox/releases](https://github.com/hkmoon/biobox/releases)
+[https://github.com/biobox-info/BioBox/releases](https://github.com/biobox-info/BioBox/releases)
 
 Building from source is currently not available.
 
